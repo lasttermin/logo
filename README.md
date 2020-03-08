@@ -17,7 +17,9 @@ logotyp
 
 ## Font
 
-<div class="glitter-meta-authors" style="color: rgb(255, 255, 255);">
+ Sans serif
+ 
+  <div class="glitter-meta-authors" style="color: rgb(255, 255, 255);">
         Font in use <a target="_blank" href="https://www.dafont.com/rounded-elegance.font">Rounded_Elegance</a> designed by
         <a target="_blank" href="mailto:dcc700@gmail.com">Genumano</a>
         and licensed under
@@ -35,8 +37,3 @@ logotyp
 ## 2
 ![2/cover.png](2/cover.png)
 
-## 3
-![3/cover.png](3/cover.png)
-
-## 4
-![4/cover.png](4/cover.png)

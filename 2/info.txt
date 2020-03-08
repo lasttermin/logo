@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rounded_Elegance
+font link: https://www.dafont.com/rounded-elegance.font
+font author: Genumano
+font author site: mailto:dcc700@gmail.com
+
+
+icon designer: pongsakorn
+icon designer link: /pongsakorn_tantiyakorn
+        
+
+fontColor: {"hex":"#FCFF22"}
+bgColor: {"hex":"#33AE3D"}
+iconColor: {"hex":"#FCFF22"}
+
+      

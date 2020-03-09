@@ -17,6 +17,7 @@ https://lasttermin.github.io/logo/example.html
   #FCFF22
 
 ## Font
+Rounded_Elegance.woff
 
  Sans serif
  
@@ -29,7 +30,29 @@ https://lasttermin.github.io/logo/example.html
           <a target="_blank" href="https://thenounproject.com/pongsakorn_tantiyakorn">pongsakorn</a></div>
           
           
-          
+## CSS
+style.css
+
+    @font-face {
+      font-family: 'Rounded Elegance Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('Rounded Elegance Regular'), url('Rounded_Elegance.woff') format('woff');
+    }
+
+    /* Background */
+    .green {
+      color: #33AE3D;
+    }
+    /* Text */
+    .white {
+    color: #FFFFFF;
+    }
+
+    /* Icon */
+    .yellow {
+      color: #FCFF22;
+    }
 # Logo
 
 ## 1

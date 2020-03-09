@@ -9,9 +9,13 @@
 .green {
   color: #33AE3D;
 }
+.black {
+  color: #111111;
+}
+
 /* Text */
 .white {
-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 /* Icon */

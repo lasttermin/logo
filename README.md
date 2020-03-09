@@ -1,6 +1,6 @@
 # logo
 logotyp
-https://lasttermin.github.io/logo/
+https://lasttermin.github.io/logo/example.html
 
 ## Colors
 
